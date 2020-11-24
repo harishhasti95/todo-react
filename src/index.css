@@ -1,0 +1,29 @@
+#heading{
+    background-color: orangered;
+    padding: 10px;
+    margin: 10px 150px 10px 150px;
+    text-align: center;
+    font-size: 35px;
+    color: rgb(12, 14, 13);
+
+}
+#body{
+    text-align: center;
+    font-size: 15px;
+}
+body{
+    background-color: palegoldenrod;
+}
+button,#but{
+    background-color: palegreen;
+    border-radius: 15px;
+}
+ul{
+    align-items: center;
+    background: palegoldenrod;
+    display: inline-block;
+    font-size: 12px;
+    justify-content: space-between;
+    margin-bottom: 6px;
+    padding: 8px 20px;
+}
